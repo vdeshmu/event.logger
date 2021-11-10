@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="6" failures="0" name="com.log.event.logger.AppTest" time="0.37" errors="2" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_192\jre\bin"/>
+    <property name="java.vm.version" value="25.192-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\vdeshmukh\Documents\Crisil\event.logger"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.rmi.server.randomIDs" value="true"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\vdeshmukh\Documents\Crisil\event.logger"/>
+    <property name="java.runtime.version" value="1.8.0_192-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_192\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\VDESHM~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Users\vdeshmukh\Documents\Crisil\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1681512218102740816.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_192\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_192\bin;C:\Program Files\Java\jdk1.8.0_171\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\WebEx\Productivity Tools;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\DEV_TOOLS\glassfish3\glassfish\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\IBM\DB2 Query Management Facility\QMF Vision\graphicsmagick;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\vdeshmukh\flutter\flutter\bin;C:\Program Files (x86)\Microsoft Emulator Manager\1.0\;C:\Program Files (x86)\Webex\Plugins;C:\Program Files (x86)\Webdunia Language Tools\TBIL Data Converter\;C:\WINDOWS\IsmFiles;C:\Users\vdeshmukh\Downloads\polaris_cli-win64-1.10.175\bin;C:\Program Files (x86)\Sennheiser\SenncomSDK\;C:\DEV_TOOLS\redis;C:\Program Files\TortoiseGit\bin;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\DEV_TOOLS\apache-zookeeper-3.5.9-bin\bin;C:\Program Files\PuTTY\;C:\Python3732\Scripts\;C:\Python3732\;C:\Users\vdeshmukh\AppData\Local\Microsoft\WindowsApps;;C:\DEV_TOOLS\PyCharm Community Edition 2018.3.2\bin;;C:\Users\vdeshmukh\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\vdeshmukh\AppData\Roaming\npm;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\vdeshmukh"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="vdeshmukh"/>
+    <property name="java.class.path" value="C:\DEV_TOOLS\eclipse\sts-4.0.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_1.10.0.20181127-2120\jars\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_192\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_192"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_192\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_192\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_192\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_192\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_192\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_192\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_192\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_192\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_192\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\vdeshmukh\Documents\Crisil\event.logger\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.log.event.logger.AppTest" name="testEventLogWithIncorrectSequence" time="0.343">
+    <error type="java.lang.ExceptionInInitializerError">java.lang.ExceptionInInitializerError
+	at com.log.event.logger.App.eventLogger(App.java:42)
+	at com.log.event.logger.AppTest.testEventLogWithIncorrectSequence(AppTest.java:57)
+Caused by: com.log.event.logger.exception.EventException: Failed to load hsqld JDBC driver
+	at com.log.event.logger.EventsRepo.&lt;clinit&gt;(EventsRepo.java:43)
+	... 30 more
+</error>
+    <system-out>Please enter the log file path	:	
+</system-out>
+    <system-err>Nov 10, 2021 4:57:05 PM com.log.event.logger.service.FileReadingService scanFile
+INFO: file path : logs\logWithIncorrectOrder.txt
+Nov 10, 2021 4:57:05 PM com.log.event.logger.service.FileReadingService scanFile
+INFO: Scanning input file for events
+Nov 10, 2021 4:57:06 PM com.log.event.logger.App eventLogger
+INFO: [Event [id=grb, type=null, host=null, timeStamp=1491377495216, timeDifference=3, alert=false, state=FINISHED], Event [id=gra, type=APPLICATION_LOG, host=12345, timeStamp=1491377495225, timeDifference=13, alert=true, state=FINISHED], Event [id=grc, type=null, host=null, timeStamp=1491377495218, timeDifference=8, alert=true, state=FINISHED]]
+Nov 10, 2021 4:57:06 PM com.log.event.logger.EventsRepo &lt;clinit&gt;
+INFO: org.hsqldb.jdbc.JDBCDriver
+</system-err>
+  </testcase>
+  <testcase classname="com.log.event.logger.AppTest" name="testApp" time="0"/>
+  <testcase classname="com.log.event.logger.AppTest" name="testEventLogWithMissingID" time="0.009"/>
+  <testcase classname="com.log.event.logger.AppTest" name="testEventLogWithCorrectSequence" time="0.007">
+    <error message="Could not initialize class com.log.event.logger.EventsRepo" type="java.lang.NoClassDefFoundError">java.lang.NoClassDefFoundError: Could not initialize class com.log.event.logger.EventsRepo
+	at com.log.event.logger.App.eventLogger(App.java:42)
+	at com.log.event.logger.AppTest.testEventLogWithCorrectSequence(AppTest.java:49)
+</error>
+    <system-out>Please enter the log file path	:	
+</system-out>
+    <system-err>Nov 10, 2021 4:57:06 PM com.log.event.logger.service.FileReadingService scanFile
+INFO: file path : logs\logWithCorrectOrder.txt
+Nov 10, 2021 4:57:06 PM com.log.event.logger.service.FileReadingService scanFile
+INFO: Scanning input file for events
+Nov 10, 2021 4:57:06 PM com.log.event.logger.App eventLogger
+INFO: [Event [id=gra, type=APPLICATION_LOG, host=12345, timeStamp=1491377495225, timeDifference=13, alert=true, state=FINISHED], Event [id=grc, type=null, host=null, timeStamp=1491377495218, timeDifference=8, alert=true, state=FINISHED], Event [id=grb, type=null, host=null, timeStamp=1491377495216, timeDifference=3, alert=false, state=FINISHED]]
+</system-err>
+  </testcase>
+  <testcase classname="com.log.event.logger.AppTest" name="testEventLogWithMissingState" time="0.004"/>
+  <testcase classname="com.log.event.logger.AppTest" name="testEventLogWithMissingTime" time="0.007"/>
+</testsuite>

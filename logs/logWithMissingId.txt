@@ -1,0 +1,14 @@
+[
+	{
+		"state":"STARTED",
+		"type":"APPLICATION_LOG",
+		"host":"12345",
+		"timeStamp":"1491377495212"
+	}
+	{
+		"state":"FINISHED",
+		"type":"APPLICATION_LOG",
+		"host":"12345",
+		"timeStamp":"1491377495225"
+	}
+]

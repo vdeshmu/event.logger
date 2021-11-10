@@ -1,0 +1,15 @@
+[
+	{
+		"id":"gra",
+		"state":"STARTED",
+		"type":"APPLICATION_LOG",
+		"host":"12345",
+		"timeStamp":"1491377495212"
+	},
+	{
+		"id":"gra",
+		"state":"FINISHED",
+		"type":"APPLICATION_LOG",
+		"host":"12345",
+	}	
+]

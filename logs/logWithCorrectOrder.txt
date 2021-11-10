@@ -1,0 +1,36 @@
+[
+	{
+		"id":"gra",
+		"state":"STARTED",
+		"type":"APPLICATION_LOG",
+		"host":"12345",
+		"timeStamp":"1491377495212"
+	},
+	{
+		"id":"grb",
+		"state":"STARTED",
+		"timeStamp":"1491377495213"
+	},
+	{
+		"id":"grc",
+		"state":"STARTED",
+		"timeStamp":"1491377495210"
+	},
+	{
+		"id":"grc",
+		"state":"FINISHED",
+		"timeStamp":"1491377495218"
+	},
+	{
+		"id":"gra",
+		"state":"FINISHED",
+		"type":"APPLICATION_LOG",
+		"host":"12345",
+		"timeStamp":"1491377495225"
+	},
+	{
+		"id":"grb",
+		"state":"FINISHED",
+		"timeStamp":"1491377495216"
+	}
+]

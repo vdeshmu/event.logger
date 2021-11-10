@@ -1,0 +1,7 @@
+com\log\event\logger\entity\enums\State.class
+com\log\event\logger\service\FileReadingService.class
+com\log\event\logger\entity\Event.class
+com\log\event\logger\exception\EventException.class
+com\log\event\logger\App.class
+com\log\event\logger\service\EventService.class
+com\log\event\logger\EventsRepo.class

@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: com.log.event.logger.AppTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.373 sec <<< FAILURE!
+testEventLogWithIncorrectSequence(com.log.event.logger.AppTest)  Time elapsed: 0.343 sec  <<< ERROR!
+java.lang.ExceptionInInitializerError
+	at com.log.event.logger.App.eventLogger(App.java:42)
+	at com.log.event.logger.AppTest.testEventLogWithIncorrectSequence(AppTest.java:57)
+Caused by: com.log.event.logger.exception.EventException: Failed to load hsqld JDBC driver
+	at com.log.event.logger.EventsRepo.<clinit>(EventsRepo.java:43)
+	... 30 more
+
+testEventLogWithCorrectSequence(com.log.event.logger.AppTest)  Time elapsed: 0.007 sec  <<< ERROR!
+java.lang.NoClassDefFoundError: Could not initialize class com.log.event.logger.EventsRepo
+	at com.log.event.logger.App.eventLogger(App.java:42)
+	at com.log.event.logger.AppTest.testEventLogWithCorrectSequence(AppTest.java:49)
+
